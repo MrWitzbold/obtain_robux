@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.container {
+    margin: 50px;
+}
+
+button {
+    background-color: black;
+    color: rgb(0, 255, 0);
+    border: 1px solid rgb(0, 255, 0);
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(0, 255, 0);
+    color: black;
+}
